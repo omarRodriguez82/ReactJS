@@ -1,4 +1,3 @@
-import Navbar from './Navbar';
 import CartWidget from './Cartwidget';
 import Logo from './images/Logo.png';
 import Instagram from './images/instagram.png'
@@ -11,11 +10,11 @@ const Header = () => {
   return(
     <div className="container-fluid">
       <div className="row Header mt-2">
-        <div className="col-md-2 position-relative">
-          <a href="index.html"><img src={Logo} alt={"Logo"} className='Logo position-absolute top-50 start-50 translate-middle'/></a>
-        </div>
+        <div className="DivTitulo col text-center"> 
 
-        <div className="DivTitulo col-md-10 text-center"> 
+          <ul className="ulRedes">
+            <a href="index.html"><img src={Logo} alt={"Logo"} className='Logo'/></a>
+          </ul>
 
           <ul className='ulRedes'>
             <li><a href="https://www.instagram.com/kancheras_y_divertidas/" target={"_blank"} rel="noreferrer"><img src={Instagram} alt={"Instagram"} className='botonRedes mb-3'/></a></li>
@@ -44,7 +43,7 @@ const Header = () => {
                 <a href="index"><img src={Search} alt="Search" /></a>         
               </span>
             </div>
-          </ul>          
+          </ul>
         
           <ul className='ulRedes'>
             <li>
@@ -59,9 +58,7 @@ const Header = () => {
         <hr className='hr border-1 opacity-75'></hr>
       </div>
 
-      <div className="col-md-12">
-        <Navbar />
-      </div> 
+
     </div>
   )
 };

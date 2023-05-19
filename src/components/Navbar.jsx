@@ -1,6 +1,7 @@
 const Navbar = () => {
   return(
-    <ul className="nav-2 m-3">
+    <div className="container-fluid m-0 p-0">
+        <ul className="nav-2 m-3">
           <li className="nav-item">
               <a className="nav-link-2" aria-current="page" href="index.html">HOME</a>
           </li>
@@ -31,6 +32,7 @@ const Navbar = () => {
           <a className="nav-link-2" href="index.html">CONTACTO</a>
           </li>
       </ul>
+  </div> 
   )
 };
 

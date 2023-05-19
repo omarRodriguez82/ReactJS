@@ -37,10 +37,10 @@ const Footer = () => {
           <div>
             <ul className='ulRedes'>
               <ul className='footerSafe p-0 m-0'>
-                <li className= 'itemsFooter'><img src={CompraSegura} alt={"CompraSegura"} className='botonRedesFooter2'/>Compra Segura</li>            
-                <li className= 'itemsFooter'><img src={SitioSeguro} alt={"SitioSeguro"} className='botonRedesFooter2'/>Sitio Seguro</li>
+                <li className= 'itemsFooter text-center'><img src={CompraSegura} alt={"CompraSegura"} className='botonRedesFooter2'/>Compra Segura</li>            
+                <li className= 'itemsFooter text-center'><img src={SitioSeguro} alt={"SitioSeguro"} className='botonRedesFooter2'/>Sitio Seguro</li>
               </ul> 
-              <li className='text-center pt-2'><img src={Ubicacion} alt={"Ubicacion"} className='botonRedesFooterLocation'/>Villa de Merlo (San Luis)</li>
+              <li className='text-center m-3'><img src={Ubicacion} alt={"Ubicacion"} className='botonRedesFooterLocation'/>Villa de Merlo (San Luis)</li>
             </ul>
           </div>
         </div>
