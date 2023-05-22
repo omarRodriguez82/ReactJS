@@ -1,0 +1,6 @@
+[
+  {"idx": 1, "Nombre":"Omar", "Apellido":"Rodriguez", "Edad":40, "Sexo":"Masculino", "Precio":200, "Imagen":"https://img.freepik.com/vector-gratis/conjunto-jovenes-realizando-diferentes-acciones_1308-93769.jpg?t=st=1684779243~exp=1684779843~hmac=345fc7b063291c9b70c4f530ad711f7855890f557f2fe2688fad66d17430d1df", "Stock":20},
+  {"idx": 2, "Nombre":"Melisa", "Apellido":"Maurizi", "Edad":37, "Sexo":"Femenino", "Precio":200, "Imagen":"https://img.freepik.com/vector-gratis/conjunto-jovenes-realizando-diferentes-acciones_1308-93769.jpg?t=st=1684779243~exp=1684779843~hmac=345fc7b063291c9b70c4f530ad711f7855890f557f2fe2688fad66d17430d1df", "Stock":15},
+  {"idx": 3, "Nombre":"Juan Gabriel", "Apellido":"Rodriguez", "Edad":7, "Sexo":"Masculino", "Precio":200, "Imagen":"https://img.freepik.com/vector-gratis/conjunto-jovenes-realizando-diferentes-acciones_1308-93769.jpg?t=st=1684779243~exp=1684779843~hmac=345fc7b063291c9b70c4f530ad711f7855890f557f2fe2688fad66d17430d1df", "Stock":10},
+  {"idx": 4, "Nombre":"Alejo", "Apellido":"Rodriguez", "Edad":4, "Sexo":"Masculino", "Precio":200, "Imagen":"https://img.freepik.com/vector-gratis/conjunto-jovenes-realizando-diferentes-acciones_1308-93769.jpg?t=st=1684779243~exp=1684779843~hmac=345fc7b063291c9b70c4f530ad711f7855890f557f2fe2688fad66d17430d1df", "Stock":5}
+]

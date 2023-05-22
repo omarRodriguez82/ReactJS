@@ -27,7 +27,7 @@ const Header = () => {
           </ul>
 
           <ul className='ulRedes'>
-            <li><a href="index.html"><img src={Mail} alt={"Mail"} className='botonRedes mb-3'/></a></li>
+            <li><img src={Mail} alt={"Mail"} className='botonRedes mb-3'/></li>
             <li><p className='nav-link-1'>kancherasadm@gmail.com</p></li>
           </ul>
 
@@ -57,7 +57,6 @@ const Header = () => {
       <div className='row divHR'>
         <hr className='hr border-1 opacity-75'></hr>
       </div>
-
 
     </div>
   )

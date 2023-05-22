@@ -7,9 +7,9 @@ const Navbar = () => {
           </li>
 
           
-        <div class="dropdown-center">
+        <div className="dropdown-center">
             <button className="btn nav-link-2" type="button" data-bs-toggle="dropdown" aria-expanded="false">BIJOUTERIE</button>
-            <ul class="dropdown-menu">
+            <ul className="dropdown-menu">
                 <li><a className="dropdown-item" href="index">AROS</a></li>
                 <div className='row divHR'><hr className='hr opacity-50'></hr></div>
                 <li><a className="dropdown-item" href="index">PULSERAS</a></li>
