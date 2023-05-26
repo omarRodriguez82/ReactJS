@@ -113,7 +113,8 @@
 .nav-link-2:hover, .dropdown-item:hover {
   background-color: white;
   color: #CE861B;
-  transition: 200ms; }
+  transition: 200ms;
+}
 
 .dropdown-item {
   text-decoration: none;
@@ -132,6 +133,42 @@
   width: 80%;
   margin-top: 40px;
   margin-bottom: 30px;
+}
+
+.btn-agregar-carrito {
+  color: black;
+  background-color: rgb(206, 134, 27, 0.3);
+}
+
+.btn-agregar-carrito:hover{
+  background-color: rgb(206, 134, 27, 0.6);
+  transition: 200ms;
+}
+
+/* ItemListContainer */
+
+.imgCard {
+  width: 350px;
+}
+
+.divDetalle {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+.tituloCardDetail {
+  font-size: 2,5rem;
+}
+
+.descripcionCardDetail {
+  font-size: 1rem;
+}
+
+.precioCardDetail {
+  font-size: 2rem;
 }
 
 /* Footer */

@@ -20,7 +20,6 @@ const ItemCount = ({stock}) => {
       if (items <= itemStock) {
           setItemStock(itemStock - items);
           setItems(1);
-          console.log("Seleccionaste: " + items + " Productos al Carrito!\nTe quedan: " + itemStock + " Productos disponibles!");
       }
   }
 
@@ -33,15 +32,15 @@ const ItemCount = ({stock}) => {
       <div className="row">
         <div className="col">
           <div className="btn-group" role="group" aria-label="Basic example">
-            <button type="button" className="btn btn-light" onClick={decrementarStock}>-</button>
-            <button type="button" className="btn btn-light">{items}</button>
-            <button type="button" className="btn btn-light" onClick={incrementarStock}>+</button>
+            <button type="button" className="btn" onClick={decrementarStock}>-</button>
+            <button type="button" className="btn">{items}</button>
+            <button type="button" className="btn" onClick={incrementarStock}>+</button>
           </div>
         </div>      
       </div>
       <div className="row">
         <div className="col">
-        <button type="button" className="btn btn-light" onClick={onAdd}>Agregar al Carrito</button>
+        <button type="button" className="btn btn-agregar-carrito" onClick={onAdd}>Agregar al Carrito</button>
         </div>
       </div>
     </div>

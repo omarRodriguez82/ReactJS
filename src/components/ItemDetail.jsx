@@ -9,15 +9,15 @@ const ItemDetail = ({producto}) => {
     }, [producto]);
 
     return (
-        <div className="container my-5">
+        <div className="container-fluid divDetalle">
             <div className="row">
-                <div className="col-md-5 offset-md-1">
+                <div className="col-md-3 offset-md-3">
                     <img src={item.Imagen} alt={item.Nombre} className="img-fluid" />
                 </div>
-                <div className="col-md-5">
-                    <h1>{item.Apellido}</h1>
-                    <h3>{item.Edad}</h3>
-                    <p><b>${item.Precio}</b></p>
+                <div className="col-md-3 text-center">
+                    <h1 className="tituloCardDetail my-3">{item.Nombre}</h1>
+                    <h3 className="descripcionCardDetail my-3">{item.Descripcion}</h3>
+                    <p className="precioCardDetail my-3">${item.Precio}</p>
                     <ItemCount stock={item.Stock} />
                 </div>
             </div>

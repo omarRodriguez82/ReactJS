@@ -8,6 +8,7 @@ import Facebook from './images/facebook.png'
 import CompraSegura from './images/safe_shop.png'
 import SitioSeguro from './images/safe_place.png'
 import Ubicacion from './images/local.png'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
   return(
@@ -26,10 +27,10 @@ const Footer = () => {
         <div className="col-md-4 seccionesFooter">
           <h3 className="titulosFooter">Contacto</h3>
           <ul className='ulRedes'>
-            <li className= 'itemsFooter'><a href="https://www.instagram.com/kancheras_y_divertidas/" target={"_blank"} rel="noreferrer"><img src={Instagram} alt={"Instagram"} className='botonRedesFooter'/></a>  @kancheras_y_divertidas</li>
-            <li className= 'itemsFooter'><a href="index.html" target={"_blank"} rel="noreferrer"><img src={Mail} alt={"Mail"} className='botonRedesFooter'/></a>  kancherasadm@gmail.com</li>
-            <li className= 'itemsFooter'><a href="https://api.whatsapp.com/send?phone=1159582209" target={"_blank"} rel="noreferrer"><img src={Whatsapp} alt={"Whatsapp"} className='botonRedesFooter'/></a>  1159582209</li>
-            <li className= 'itemsFooter'><a href="https://www.facebook.com/kancheras_y_divertidas" target={"_blank"} rel="noreferrer"><img src={Facebook} alt={"Facebook"} className='botonRedesFooter'/></a>  kancheras_y_divertidas</li>
+            <li className= 'itemsFooter'><Link to={"https://www.instagram.com/kancheras_y_divertidas/"} target={"_blank"} rel="noreferrer"><img src={Instagram} alt={"Instagram"} className='botonRedesFooter'/></Link>  @kancheras_y_divertidas</li>
+            <li className= 'itemsFooter'><Link to={"index.html"} target={"_blank"} rel="noreferrer"><img src={Mail} alt={"Mail"} className='botonRedesFooter'/></Link>  kancherasadm@gmail.com</li>
+            <li className= 'itemsFooter'><Link to={"https://api.whatsapp.com/send?phone=1159582209"} target={"_blank"} rel="noreferrer"><img src={Whatsapp} alt={"Whatsapp"} className='botonRedesFooter'/></Link>  1159582209</li>
+            <li className= 'itemsFooter'><Link to={"https://www.facebook.com/kancheras_y_divertidas"} target={"_blank"} rel="noreferrer"><img src={Facebook} alt={"Facebook"} className='botonRedesFooter'/></Link>  kancheras_y_divertidas</li>
           </ul>
         </div>
 
