@@ -22,8 +22,15 @@
 
 .DivTitulo {
   display: flex;
-  justify-content: space-evenly;
   align-items: center;
+}
+
+.tituloMain {
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  font-size: 45px;
+  color: black;
+  letter-spacing: 20px;
 }
 
 .nav-link-1 {
@@ -48,7 +55,7 @@
   width: 20px;
 }
 
-.form-control {
+/* .form-control {
   border: none;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
@@ -74,13 +81,13 @@
 }
 
 .hrBuscar {
-  color: #CE861B;
+  color: rgb(208, 134, 27, 0.3);
   width: 75%;  
-}
+} */
 
 .hr {
-  color: #CE861B;
-  width: 70%;  
+  color: rgb(208, 134, 27, 0.3);
+  width: 70%;
 }
 
 .botonCarrito {
@@ -112,7 +119,7 @@
 
 .nav-link-2:hover, .dropdown-item:hover {
   background-color: white;
-  color: #CE861B;
+  color: rgb(208, 134, 27);
   transition: 200ms;
 }
 
@@ -137,18 +144,57 @@
 
 .btn-agregar-carrito {
   color: black;
-  background-color: rgb(206, 134, 27, 0.3);
+  background-color: rgb(208, 134, 27, 0.3);
 }
 
 .btn-agregar-carrito:hover{
-  background-color: rgb(206, 134, 27, 0.6);
+  background-color: rgb(208, 134, 27, 0.6);
   transition: 200ms;
+}
+
+.breadcrumb {
+  font-family: 'Cardo', serif;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgb(208, 134, 27, 0.5);
+}
+
+/* ItemDetail */
+
+.imgDetalle {
+  width: 400px;
 }
 
 /* ItemListContainer */
 
 .imgCard {
   width: 350px;
+}
+
+.nombreCard {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  color: black;
+}
+
+.precioCard {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+}
+
+.botonComprarCard {
+  padding: 0.3rem;
+  border: none;
+  color: black;
+  background-color: rgb(208, 134, 27, 0.3);
+  border-radius: 15px;
+}
+
+.botonComprarCard:hover{
+  background-color: rgb(208, 134, 27, 0.6);
+  transition: 200ms;
 }
 
 .divDetalle {
@@ -160,7 +206,7 @@
 }
 
 .tituloCardDetail {
-  font-size: 2,5rem;
+  font-size: 2rem;
 }
 
 .descripcionCardDetail {
@@ -171,12 +217,46 @@
   font-size: 2rem;
 }
 
+/* Contacto */
+
+.contacto {
+  font-family: 'Poppins', sans-serif;  
+}
+
+.tituloContacto {
+  font-family: 'Cardo', serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: rgb(208, 134, 27, 0.3);
+}
+
+.form-nombre {
+  background-color: rgb(208, 134, 27, 0.3);
+}
+
+.form-email {
+  background-color: rgb(208, 134, 27, 0.3);
+}
+
+.form-telefono {
+  background-color: rgb(208, 134, 27, 0.3);
+}
+
+.form-mensaje {
+  background-color: rgb(208, 134, 27, 0.3);
+}
+
+.btn-enviar {
+  background-color: rgb(208, 134, 27, 0.3);
+  color: black;
+}
+
 /* Footer */
 
 .Footer {
   height: 100vf;
   padding: 2rem;
-  background-color: rgb(206, 134, 27, 0.3);
+  background-color: rgb(222, 191, 144, 0.3);
   display: flex;
   justify-items: center;
 }
@@ -184,13 +264,6 @@
 .itemsFooter {
   margin: 20px;
 }
-
-/*secciones horizontales
-.seccionesFooter {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-}*/
 
 .seccionesFooter {
   padding-left: 100px;
@@ -204,32 +277,7 @@
   margin: 20px;
 }
 
-.botonPagosFooter {
-  width: 35px;
-  margin-right: 0.5rem;
-}
-
-.botonRedesFooter {
+.botonesFooter {
   width: 20px;
   margin-right: 0.5rem;
-}
-
-.divSafe {
-  padding: 2rem;
-}
-
-.footerSafe {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.botonRedesFooter2 {
-  width: 40px;
-  margin: 0.5rem;
-}
-
-.botonRedesFooterLocation {
-  width: 30px;
-  margin: 0.5rem;
 }

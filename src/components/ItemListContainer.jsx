@@ -10,7 +10,7 @@ const ItemListContainer = () => {
   useEffect(() => {
     const promesa = new Promise((resolve) => {
       setTimeout(() => {
-        resolve(id ? productos.filter(item => item.Categoria === id) : productos);
+        resolve(id ? productos.filter(item => item.categoria === id) : productos);
       },2000);
     });
 
@@ -20,8 +20,9 @@ const ItemListContainer = () => {
   }, [id]);
 
   return(
-    <div className="container-fluid">
+    <div className="container">
       <div className="row">
+        <p className="breadcrumb m-4">{id}</p>
         <ItemList productos={items} />
       </div>
     </div>

@@ -18,30 +18,29 @@ const Footer = () => {
         <div className="col-md-4 seccionesFooter">
           <h3 className="titulosFooter">Medios de pago</h3>
             <ul className='p-0'>
-              <li className= 'itemsFooter'><img src={MercadoPago} alt={"MercadoPago"} className='botonPagosFooter'/>Mercado Pago</li>            
-              <li className= 'itemsFooter'><img src={Efectivo} alt={"Efectivo"} className='botonPagosFooter'/>Efectivo</li>            
-              <li className= 'itemsFooter'><img src={Transferencia} alt={"Transferencia"} className='botonPagosFooter'/>Transferencia</li>
+              <li className= 'itemsFooter'><img src={MercadoPago} alt={"MercadoPago"} className='botonesFooter'/>Mercado Pago</li>            
+              <li className= 'itemsFooter'><img src={Efectivo} alt={"Efectivo"} className='botonesFooter'/>Efectivo</li>            
+              <li className= 'itemsFooter'><img src={Transferencia} alt={"Transferencia"} className='botonesFooter'/>Transferencia</li>
             </ul>
         </div>
 
         <div className="col-md-4 seccionesFooter">
           <h3 className="titulosFooter">Contacto</h3>
           <ul className='ulRedes'>
-            <li className= 'itemsFooter'><Link to={"https://www.instagram.com/kancheras_y_divertidas/"} target={"_blank"} rel="noreferrer"><img src={Instagram} alt={"Instagram"} className='botonRedesFooter'/></Link>  @kancheras_y_divertidas</li>
-            <li className= 'itemsFooter'><Link to={"index.html"} target={"_blank"} rel="noreferrer"><img src={Mail} alt={"Mail"} className='botonRedesFooter'/></Link>  kancherasadm@gmail.com</li>
-            <li className= 'itemsFooter'><Link to={"https://api.whatsapp.com/send?phone=1159582209"} target={"_blank"} rel="noreferrer"><img src={Whatsapp} alt={"Whatsapp"} className='botonRedesFooter'/></Link>  1159582209</li>
-            <li className= 'itemsFooter'><Link to={"https://www.facebook.com/kancheras_y_divertidas"} target={"_blank"} rel="noreferrer"><img src={Facebook} alt={"Facebook"} className='botonRedesFooter'/></Link>  kancheras_y_divertidas</li>
+            <li className= 'itemsFooter'><Link to={"https://www.instagram.com/kancheras_y_divertidas/"} target={"_blank"} rel="noreferrer"><img src={Instagram} alt={"Instagram"} className='botonesFooter'/></Link>  @kancheras_y_divertidas</li>
+            <li className= 'itemsFooter'><img src={Mail} alt={"Mail"} className='botonesFooter'/>  kancherasadm@gmail.com</li>
+            <li className= 'itemsFooter'><Link to={"https://api.whatsapp.com/send?phone=1159582209"} target={"_blank"} rel="noreferrer"><img src={Whatsapp} alt={"Whatsapp"} className='botonesFooter'/></Link>  1159582209</li>
+            <li className= 'itemsFooter'><Link to={"https://www.facebook.com/kancheras_y_divertidas"} target={"_blank"} rel="noreferrer"><img src={Facebook} alt={"Facebook"} className='botonesFooter'/></Link>  kancheras_y_divertidas</li>
           </ul>
         </div>
 
-        <div className="col-md-4 divSafe">
+        <div className="col-md-4 seccionesFooter">
+        <h3 className="titulosFooter">El Sitio</h3>
           <div>
             <ul className='ulRedes'>
-              <ul className='footerSafe p-0 m-0'>
-                <li className= 'itemsFooter text-center'><img src={CompraSegura} alt={"CompraSegura"} className='botonRedesFooter2'/>Compra Segura</li>            
-                <li className= 'itemsFooter text-center'><img src={SitioSeguro} alt={"SitioSeguro"} className='botonRedesFooter2'/>Sitio Seguro</li>
-              </ul> 
-              <li className='text-center m-3'><img src={Ubicacion} alt={"Ubicacion"} className='botonRedesFooterLocation'/>Villa de Merlo (San Luis)</li>
+              <li className= 'itemsFooter'><img src={CompraSegura} alt={"CompraSegura"} className='botonesFooter'/>Compra Segura</li>            
+              <li className= 'itemsFooter'><img src={SitioSeguro} alt={"SitioSeguro"} className='botonesFooter'/>Sitio Seguro</li>
+              <li className= 'itemsFooter'><img src={Ubicacion} alt={"Ubicacion"} className='botonesFooter'/>Villa de Merlo (San Luis)</li>
             </ul>
           </div>
         </div>

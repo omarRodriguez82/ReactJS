@@ -10,7 +10,7 @@ const Navbar = () => {
           </li>
           
           <div className="dropdown-center">
-              <button className="btn nav-link-2" type="button" data-bs-toggle="dropdown" aria-expanded="false">BIJOUTERIE</button>
+              <button className="btn nav-link-2 Bijouterie" type="button" data-bs-toggle="dropdown" aria-expanded="false">BIJOUTERIE</button>
               <ul className="dropdown-menu">
                   <li><NavLink className="dropdown-item" to={"/Categoria/Aros"}>AROS</NavLink></li>
                   <div className='row divHR'><hr className='hr opacity-50'></hr></div>
@@ -28,7 +28,7 @@ const Navbar = () => {
           </div>
             
           <div className="dropdown-center">
-              <button className="btn nav-link-2" type="button" data-bs-toggle="dropdown" aria-expanded="false">ACCESORIOS</button>
+              <button className="btn nav-link-2 Accesorios" type="button" data-bs-toggle="dropdown" aria-expanded="false">ACCESORIOS</button>
               <ul className="dropdown-menu">
                   <li><NavLink className="dropdown-item" to={"/Categoria/Anteojos"}>ANTEOJOS</NavLink></li>
                   <div className='row divHR'><hr className='hr opacity-50'></hr></div>
@@ -52,7 +52,7 @@ const Navbar = () => {
           </div>
 
           <li className="nav-item">
-          <NavLink className="nav-link-2" to={"index.html"}>CONTACTO</NavLink>
+          <NavLink className="nav-link-2" to={"/Contacto"}>CONTACTO</NavLink>
           </li>
 
       </ul>
