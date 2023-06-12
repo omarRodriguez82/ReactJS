@@ -55,36 +55,6 @@
   width: 20px;
 }
 
-/* .form-control {
-  border: none;
-  font-family: 'Poppins', sans-serif;
-  font-size: 15px;
-  color: black;
-}
-
-.input-group {  
-  width: 80%;
-}
-
-.LiHrBuscar {
-  display: flex;
-  justify-content: center;
-}
-
-.input-group-text {
-  background-color: white;
-  border: none;
-}
-
-.searchBtn {
-  width: 50px;
-}
-
-.hrBuscar {
-  color: rgb(208, 134, 27, 0.3);
-  width: 75%;  
-} */
-
 .hr {
   color: rgb(208, 134, 27, 0.3);
   width: 70%;
@@ -165,6 +135,12 @@
   width: 400px;
 }
 
+/* ItemCount */
+
+.pStock {
+  font-size: 13px;
+}
+
 /* ItemListContainer */
 
 .imgCard {
@@ -182,19 +158,6 @@
   font-size: 18px;
   font-weight: 600;
   color: black;
-}
-
-.botonComprarCard {
-  padding: 0.3rem;
-  border: none;
-  color: black;
-  background-color: rgb(208, 134, 27, 0.3);
-  border-radius: 15px;
-}
-
-.botonComprarCard:hover{
-  background-color: rgb(208, 134, 27, 0.6);
-  transition: 200ms;
 }
 
 .divDetalle {
@@ -225,9 +188,9 @@
 
 .tituloContacto {
   font-family: 'Cardo', serif;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 600;
-  color: rgb(208, 134, 27, 0.3);
+  color: rgb(208, 134, 27, 0.5);
 }
 
 .form-nombre {
@@ -249,6 +212,20 @@
 .btn-enviar {
   background-color: rgb(208, 134, 27, 0.3);
   color: black;
+}
+
+.btn-enviar:hover{
+  background-color: rgb(208, 134, 27, 0.6);
+  transition: 200ms;
+}
+
+/* Carrito */
+
+.tituloCarrito {
+  font-family: 'Cardo', serif;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgb(208, 134, 27, 0.5);
 }
 
 /* Footer */

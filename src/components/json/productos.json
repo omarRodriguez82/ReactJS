@@ -1,903 +1,1050 @@
 [
-	{"id": 1,
+	{
 	"nombre":"Aros labrados",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/vv0SF84/1aros.png"},
+	"imagen":"https://i.ibb.co/vv0SF84/1aros.png"
+	},
 
-	{"id": 2,
+	{
 	"nombre":"Argolla plana",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/VqBjJZx/2aros.png"},
+	"imagen":"https://i.ibb.co/VqBjJZx/2aros.png"
+	},
 
-	{"id": 3,
+	{
 	"nombre":"Aros Estrella",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":900,
 	"stock":2,
-	"imagen":"https://i.ibb.co/ySRH6fy/3aros.png"},
+	"imagen":"https://i.ibb.co/ySRH6fy/3aros.png"
+	},
 
-	{"id": 4,
+	{
 	"nombre":"Argolla simple 3cm",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/QkrJrR4/4aros.png"},
+	"imagen":"https://i.ibb.co/QkrJrR4/4aros.png"
+	},
 
-	{"id": 5,
+	{
 	"nombre":"Argolla plana diseño",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/TYnJ9ws/5aros.png"},
+	"imagen":"https://i.ibb.co/TYnJ9ws/5aros.png"
+	},
 
-	{"id": 6,
+	{
 	"nombre":"Argolla chica ancha labrada",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/wJGW06K/6aros.png"},
+	"imagen":"https://i.ibb.co/wJGW06K/6aros.png"
+	},
 
-	{"id": 7,
+	{
 	"nombre":"Aros strass x tres vertical",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco con strass",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/b6sT0Np/7aros.png"},
+	"imagen":"https://i.ibb.co/b6sT0Np/7aros.png"
+	},
 
-	{"id": 8,
+	{
 	"nombre":"Aros calados diseño",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/X89f2rK/8aros.png"},
+	"imagen":"https://i.ibb.co/X89f2rK/8aros.png"
+	},
 
-	{"id": 9,
+	{
 	"nombre":"Perlas x cinco vertical",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y perlas",
 	"precio":850,
 	"stock":1,
-	"imagen":"https://i.ibb.co/2n7fQ4G/9aros.png"},
+	"imagen":"https://i.ibb.co/2n7fQ4G/9aros.png"
+	},
 
-	{"id": 10,
+	{
 	"nombre":"Argollas infladas y caladas pequeñas",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1400,
 	"stock":1,
-	"imagen":"https://i.ibb.co/4fVPVCC/10aros.png"},
+	"imagen":"https://i.ibb.co/4fVPVCC/10aros.png"
+	},
 
-	{"id": 11,
+	{
 	"nombre":"Figuras pequeñas",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":700,
 	"stock":2,
-	"imagen":"https://i.ibb.co/28y0KbN/11aros.png"},
+	"imagen":"https://i.ibb.co/28y0KbN/11aros.png"
+	},
 
-	{"id": 12,
+	{
 	"nombre":"Aro colgante rectangular",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/zNWGFWY/12aros.png"},
+	"imagen":"https://i.ibb.co/zNWGFWY/12aros.png"
+	},
 
-	{"id": 13,
+	{
 	"nombre":"Aros nacar",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y nacar",
 	"precio":1600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/7RMKhxx/13aros.png"},
+	"imagen":"https://i.ibb.co/7RMKhxx/13aros.png"
+	},
 
-	{"id": 14,
+	{
 	"nombre":"Argolla ovalada plana",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/bW7jM01/14aros.png"},
+	"imagen":"https://i.ibb.co/bW7jM01/14aros.png"
+	},
 
-	{"id": 15,
+	{
 	"nombre":"Argolla inflada",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/Lh8z0sy/15aros.png"},
+	"imagen":"https://i.ibb.co/Lh8z0sy/15aros.png"
+	},
 
-	{"id": 16,
+	{
 	"nombre":"Rombo texturizado y calado",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/qYMzH34/16aros.png"},
+	"imagen":"https://i.ibb.co/qYMzH34/16aros.png"
+	},
 
-	{"id": 17,
+	{
 	"nombre":"Corazón grande 6cm",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/L5yHjWc/17aros.png"},
+	"imagen":"https://i.ibb.co/L5yHjWc/17aros.png"
+	},
 
-	{"id": 18,
+	{
 	"nombre":"Colgante G",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/3vsvwHm/18aros.png"},
+	"imagen":"https://i.ibb.co/3vsvwHm/18aros.png"
+	},
 
-	{"id": 19,
+	{
 	"nombre":"Corazón pequeño con strass",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y strass",
 	"precio":800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/0QtNB53/19aros.png"},
+	"imagen":"https://i.ibb.co/0QtNB53/19aros.png"
+	},
 
-	{"id": 20,
+	{
 	"nombre":"Figuras pequeñas en volumen y/o strass",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y strass",
 	"precio":800,
 	"stock":3,
-	"imagen":"https://i.ibb.co/kBq8QTg/20aros.png"},
+	"imagen":"https://i.ibb.co/kBq8QTg/20aros.png"
+	},
 
-	{"id": 21,
+	{
 	"nombre":"Estrellas pequeñas strass",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y strass",
 	"precio":900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/6JCSnbk/21aros.png"},
+	"imagen":"https://i.ibb.co/6JCSnbk/21aros.png"
+	},
 
-	{"id": 22,
+	{
 	"nombre":"Perla pequeña blanca/plateada",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":700,
 	"stock":6,
-	"imagen":"https://i.ibb.co/dkSb203/22aros.png"},
+	"imagen":"https://i.ibb.co/dkSb203/22aros.png"
+	},
 
-	{"id": 23,
+	{
 	"nombre":"Aro trenzado vertical pequeño",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/r2g3dx9/23aros.png"},
+	"imagen":"https://i.ibb.co/r2g3dx9/23aros.png"
+	},
 
-	{"id": 24,
+	{
 	"nombre":"Aro simple strass",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y strass",
 	"precio":700,
 	"stock":2,
-	"imagen":"https://i.ibb.co/3m7xDkm/24aros.png"},
+	"imagen":"https://i.ibb.co/3m7xDkm/24aros.png"
+	},
 
-	{"id": 25,
+	{
 	"nombre":"Corazón SOHO con strass",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y strass",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/sPbBss9/25aros.png"},
+	"imagen":"https://i.ibb.co/sPbBss9/25aros.png"
+	},
 
-	{"id": 26,
+	{
 	"nombre":"Pasante largo esfera plana",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/BT0qwrT/26aros.png"},
+	"imagen":"https://i.ibb.co/BT0qwrT/26aros.png"
+	},
 
-	{"id": 27,
+	{
 	"nombre":"Colgante PAZ con strass",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y strass",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/sy0dQ97/27aros.png"},
+	"imagen":"https://i.ibb.co/sy0dQ97/27aros.png"
+	},
 
-	{"id": 28,
+	{
 	"nombre":"Aro dorado figuras pequeñas",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico dorado",
 	"precio":800,
 	"stock":2,
-	"imagen":"https://i.ibb.co/jJCZ5P7/28aros.png"},
+	"imagen":"https://i.ibb.co/jJCZ5P7/28aros.png"
+	},
 
-	{"id": 29,
+	{
 	"nombre":"Argolla dorada pequeña",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico dorado",
 	"precio":900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/8B9JKhy/29aros.png"},
+	"imagen":"https://i.ibb.co/8B9JKhy/29aros.png"
+	},
 
-	{"id": 30,
+	{
 	"nombre":"Caminador colgante estrella y strass",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y strass",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/JH8w401/30aros.png"},
+	"imagen":"https://i.ibb.co/JH8w401/30aros.png"
+	},
 
-	{"id": 31,
+	{
 	"nombre":"Perla strass negro",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y strass",
 	"precio":800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/p0nW5Pq/31aros.png"},
+	"imagen":"https://i.ibb.co/p0nW5Pq/31aros.png"
+	},
 
-	{"id": 32,
+	{
 	"nombre":"Aro luna chico",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/ydPnksJ/32aros.png"},
+	"imagen":"https://i.ibb.co/ydPnksJ/32aros.png"
+	},
 
-	{"id": 33,
+	{
 	"nombre":"Argolla perlas blancas y plateadas",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco y perlas",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/NjHW3yK/33aros.png"},
+	"imagen":"https://i.ibb.co/NjHW3yK/33aros.png"
+	},
 
-	{"id": 34,
+	{
 	"nombre":"Colgante Dalí",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/Rbf6116/34aros.png"},
+	"imagen":"https://i.ibb.co/Rbf6116/34aros.png"
+	},
 
-	{"id": 35,
+	{
 	"nombre":"Rombo chato liso",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/KNQDmwC/35aros.png"},
+	"imagen":"https://i.ibb.co/KNQDmwC/35aros.png"
+	},
 
-	{"id": 36,
+	{
 	"nombre":"Argolla strass negro",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/wJkgWXx/36aros.png"},
+	"imagen":"https://i.ibb.co/wJkgWXx/36aros.png"
+	},
 
-	{"id": 37,
+	{
 	"nombre":"Solitario a presión",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/NpWYF0f/37aros.png"},
+	"imagen":"https://i.ibb.co/NpWYF0f/37aros.png"
+	},
 
-	{"id": 38,
+	{
 	"nombre":"Colgante óvalo",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/cX9KjSs/38aros.png"},
+	"imagen":"https://i.ibb.co/cX9KjSs/38aros.png"
+	},
 
-	{"id": 39,
+	{
 	"nombre":"Colgante gota",
 	"categoria":"Aros",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/qr8wnV9/39aros.png"},
+	"imagen":"https://i.ibb.co/qr8wnV9/39aros.png"
+	},
 
-	{"id": 40,
+	{
 	"nombre":"Colgante fantasía",
 	"categoria":"Aros",
 	"descripcion":"Acrílico",
 	"precio":700,
 	"stock":2,
-	"imagen":"https://i.ibb.co/pnXZF3F/40aros.png"},
+	"imagen":"https://i.ibb.co/pnXZF3F/40aros.png"
+	},
 
-
-	{"id": 41,
+	{
 	"nombre":"Colgante fantasía",
 	"categoria":"Aros",
 	"descripcion":"Acrílico",
 	"precio":700,
 	"stock":2,
-	"imagen":"https://i.ibb.co/1MLmHNh/41aros.png"},
+	"imagen":"https://i.ibb.co/1MLmHNh/41aros.png"
+	},
 
-	{"id": 42,
+	{
 	"nombre":"Cadena con dije corazón",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1490,
 	"stock":1,
-	"imagen":"https://i.ibb.co/CvcvbXX/42pulseras.png"},
+	"imagen":"https://i.ibb.co/CvcvbXX/42pulseras.png"
+	},
 
-	{"id": 43,
+	{
 	"nombre":"Pulsera de amistad",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/BN8qn85/43pulseras.png"},	
+	"imagen":"https://i.ibb.co/BN8qn85/43pulseras.png"
+	},	
 
-	{"id": 44,
+	{
 	"nombre":"Pulsera con dijes",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1550,
 	"stock":1,
-	"imagen":"https://i.ibb.co/g7PpScY/44pulseras.png"},
+	"imagen":"https://i.ibb.co/g7PpScY/44pulseras.png"
+	},
 
-	{"id": 45,
+	{
 	"nombre":"Pulsera de eslabones labrados",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/v1fLLKD/45pulseras.png"},
+	"imagen":"https://i.ibb.co/v1fLLKD/45pulseras.png"
+	},
 
-	{"id": 46,
+	{
 	"nombre":"Pulsera eslabón rositas",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1350,
 	"stock":1,
-	"imagen":"https://i.ibb.co/7Cv1K6T/46pulseras.png"},
+	"imagen":"https://i.ibb.co/7Cv1K6T/46pulseras.png"
+	},
 
-	{"id": 47,
+	{
 	"nombre":"Pulsera eslabón grande",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1350,
 	"stock":1,
-	"imagen":"https://i.ibb.co/ZKm72wd/47pulseras.png"},
+	"imagen":"https://i.ibb.co/ZKm72wd/47pulseras.png"
+	},
 
-	{"id": 48,
+	{
 	"nombre":"Eslabón cadena redonda",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/fqmx9Jc/48pulseras.png"},
+	"imagen":"https://i.ibb.co/fqmx9Jc/48pulseras.png"
+	},
 
-	{"id": 49,
+	{
 	"nombre":"Pulsera unisex dorada y plateada",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco y dorado",
 	"precio":1450,
 	"stock":1,
-	"imagen":"https://i.ibb.co/GsrxzVF/49pulseras.png"},
+	"imagen":"https://i.ibb.co/GsrxzVF/49pulseras.png"
+	},
 
-	{"id": 50,
+	{
 	"nombre":"Pulsera triple",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/XCvK3F0/50pulseras.png"},
+	"imagen":"https://i.ibb.co/XCvK3F0/50pulseras.png"
+	},
 
-	{"id": 51,
+	{
 	"nombre":"Pulsera de perlas negras facetadas",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco y perlas facetadas",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/2F5HhtP/51pulseras.png"},
+	"imagen":"https://i.ibb.co/2F5HhtP/51pulseras.png"
+	},
 
-	{"id": 52,
+	{
 	"nombre":"Pulsera elastizada de perlas ovaladas",
 	"categoria":"Pulseras",
 	"descripcion":"Dije de acero quirúrgico blanco y perlas ovaladas ",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/KK1CR6C/52pulseras.png"},
+	"imagen":"https://i.ibb.co/KK1CR6C/52pulseras.png"
+	},
 
-	{"id": 53,
+	{
 	"nombre":"Pulsera de perlas y strass elastizada",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco, perlas y strass",
 	"precio":1400,
 	"stock":1,
-	"imagen":"https://i.ibb.co/wsH88GF/53pulseras.png"},
+	"imagen":"https://i.ibb.co/wsH88GF/53pulseras.png"
+	},
 
-	{"id": 54,
+	{
 	"nombre":"Pulsera perlas color natural con dijes",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco y perlas",
 	"precio":1250,
 	"stock":2,
-	"imagen":"https://i.ibb.co/2S5H4bT/54pulseras.png"},
+	"imagen":"https://i.ibb.co/2S5H4bT/54pulseras.png"
+	},
 
-	{"id": 55,
+	{
 	"nombre":"Pulsera ajustable de cordón rojo",
 	"categoria":"Pulseras",
 	"descripcion":"Cordón",
 	"precio":1100,
 	"stock":1,
-	"imagen":"https://i.ibb.co/SystC6B/55pulseras.png"},
+	"imagen":"https://i.ibb.co/SystC6B/55pulseras.png"
+	},
 
-	{"id": 56,
+	{
 	"nombre":"Pulseras (esclavas) blanca/dorada/rosa",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco/dorado/rosa",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/YjnpD4S/56pulseras.png"},
+	"imagen":"https://i.ibb.co/YjnpD4S/56pulseras.png"
+	},
 
-	{"id": 57,
+	{
 	"nombre":"Pulsera ajustable de cordón negro con dije",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco y cordón",
 	"precio":1350,
 	"stock":1,
-	"imagen":"https://i.ibb.co/ynFhx1K/57pulseras.png"},
+	"imagen":"https://i.ibb.co/ynFhx1K/57pulseras.png"
+	},
 
-	{"id": 58,
+	{
 	"nombre":"Pulsera ajustable de cordón con pelotitas de acero",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco y cordón",
 	"precio":1400,
 	"stock":1,
-	"imagen":"https://i.ibb.co/0Gq9D1x/58pulseras.png"},
+	"imagen":"https://i.ibb.co/0Gq9D1x/58pulseras.png"
+	},
 
-	{"id": 59,
+	{
 	"nombre":"Pulsera de caucho y acero",
 	"categoria":"Pulseras",
 	"descripcion":"Acero quirúrgico blanco y caucho",
 	"precio":1350,
 	"stock":2,
-	"imagen":"https://i.ibb.co/y6gLPGD/59pulseras.png"},
+	"imagen":"https://i.ibb.co/y6gLPGD/59pulseras.png"
+	},
 
-	{"id": 60,
+	{
 	"nombre":"Pulsera de cuero ajustable",
 	"categoria":"Pulseras",
 	"descripcion":"Cuero y acero quirúrgico",
 	"precio":1350,
 	"stock":1,
-	"imagen":"https://i.ibb.co/NNW2sN8/60pulseras.png"},
+	"imagen":"https://i.ibb.co/NNW2sN8/60pulseras.png"
+	},
 
-	{"id": 61,
+	{
 	"nombre":"Brazalete de cuero y estrellas",
 	"categoria":"Pulseras",
 	"descripcion":"Cuero y tachas",
 	"precio":1600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/60bLWyG/61pulseras.png"},
+	"imagen":"https://i.ibb.co/60bLWyG/61pulseras.png"
+	},
 
-	{"id": 62,
+	{
 	"nombre":"Brazalete de cuero y flores",
 	"categoria":"Pulseras",
 	"descripcion":"Cuero y tachas",
 	"precio":1600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/mhRNrC8/62pulseras.png"},
+	"imagen":"https://i.ibb.co/mhRNrC8/62pulseras.png"
+	},
 
-	{"id": 63,
+	{
 	"nombre":"Pulsera cuero marrón con tachas redondas",
 	"categoria":"Pulseras",
 	"descripcion":"Cuero y tachas",
 	"precio":1650,
 	"stock":1,
-	"imagen":"https://i.ibb.co/1QX86Pf/63pulseras.png"},
+	"imagen":"https://i.ibb.co/1QX86Pf/63pulseras.png"
+	},
 
-	{"id": 64,
+	{
 	"nombre":"Media Luna",
 	"categoria":"Dijes",
 	"descripcion":"Acero quirúrgico blanco media luna",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/C8d3x8f/card-1.png"},
+	"imagen":"https://i.ibb.co/C8d3x8f/card-1.png"
+	},
 
-	{"id": 65,
+	{
 	"nombre":"Medalla antigua",
 	"categoria":"Dijes",
 	"descripcion":"Acero quirúrgico",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/M54ztxL/card-1-1.png"},
+	"imagen":"https://i.ibb.co/M54ztxL/card-1-1.png"
+	},
 
-	{"id": 66,
+	{
 	"nombre":"Trébol de la suerte",
 	"categoria":"Dijes",
 	"descripcion":"Acero quirúrgico blanco esmaltado",
 	"precio": 1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/7rb84d3/card-2-1.png"},
+	"imagen":"https://i.ibb.co/7rb84d3/card-2-1.png"
+	},
 
-	{"id": 67,
+	{
 	"nombre":"Elefante",
 	"categoria":"Dijes",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/ZmxTdV3/card.png"},
+	"imagen":"https://i.ibb.co/ZmxTdV3/card.png"
+	},
 
-	{"id": 68,
+	{
 	"nombre":"Cruz",
 	"categoria":"Dijes",
 	"descripcion":"Acero quirúrgico blanco esmaltado",
 	"precio":1300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/Sf43JGr/card-3.png"},
+	"imagen":"https://i.ibb.co/Sf43JGr/card-3.png"
+	},
 
-	{"id": 69,
+	{
 	"nombre":"Alas",
 	"categoria":"Dijes",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/NLH25Yy/card-1.png"},
+	"imagen":"https://i.ibb.co/NLH25Yy/card-1.png"
+	},
 
-	{"id": 70,
+	{
 	"nombre":"Corazón/Estrella",
 	"categoria":"Dijes",
 	"descripcion":"Acero quirúrgico calado",
 	"precio":800,
 	"stock":2,
-	"imagen":"https://i.ibb.co/6nCVt1g/card-2.png"},
+	"imagen":"https://i.ibb.co/6nCVt1g/card-2.png"
+	},
 
-	{"id": 71,
+	{
 	"nombre":"Rolo grande",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":3800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/vsYbXqK/1aros.png"},
+	"imagen":"https://i.ibb.co/vsYbXqK/1aros.png"
+	},
 
 
-	{"id": 72,
+	{
 	"nombre":"Palito/Cadena tensa chica",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":2000,
 	"stock":2,
-	"imagen":"https://i.ibb.co/wsKKw3B/2aros.png"},
+	"imagen":"https://i.ibb.co/wsKKw3B/2aros.png"
+	},
 
-	{"id": 73,
+	{
 	"nombre":"Eslabón pequeño corto",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/pjmQ4x5/3aros.png"},
+	"imagen":"https://i.ibb.co/pjmQ4x5/3aros.png"
+	},
 
-	{"id": 74,
+	{
 	"nombre":"Punto palito",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":2000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/hyb4Tct/5aros.png"},
+	"imagen":"https://i.ibb.co/hyb4Tct/5aros.png"
+	},
 
-	{"id": 75,
+	{
 	"nombre":"Cadena plana corta",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/1ZWyMJ4/6aros.png"},
+	"imagen":"https://i.ibb.co/1ZWyMJ4/6aros.png"
+	},
 
-	{"id": 76,
+	{
 	"nombre":"Eslabón redondo chico",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":2200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/tqzrKwS/7aros.png"},
+	"imagen":"https://i.ibb.co/tqzrKwS/7aros.png"
+	},
 
-	{"id": 77,
+	{
 	"nombre":"Eslabón cuadrado",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/brPc8ZJ/9aros.png"},
+	"imagen":"https://i.ibb.co/brPc8ZJ/9aros.png"
+	},
 
-	{"id": 78,
+	{
 	"nombre":"Eslabón redondo plano",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":2200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/K5vxF5Z/15aros.png"},
+	"imagen":"https://i.ibb.co/K5vxF5Z/15aros.png"
+	},
 
-	{"id": 79,
+	{
 	"nombre":"Eslabón redondo doble",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":2400,
 	"stock":1,
-	"imagen":"https://i.ibb.co/pyjZ0QJ/17aros.png"},
+	"imagen":"https://i.ibb.co/pyjZ0QJ/17aros.png"
+	},
 
-	{"id": 80,
+	{
 	"nombre":"Eslabón redondo combinado",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":2800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/y6S90ZT/13aros.png"},
+	"imagen":"https://i.ibb.co/y6S90ZT/13aros.png"
+	},
 	
-	{"id": 81,
+	{
 	"nombre":"Eslabón torzado",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico",
 	"precio":2000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/yRQTmGQ/14aros.png"},
+	"imagen":"https://i.ibb.co/yRQTmGQ/14aros.png"
+	},
 	
-	{"id": 82,
+	{
 	"nombre":"Eslabón redondo doble largo",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico",
 	"precio":2000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/YhgYtWs/16aros.png"},
+	"imagen":"https://i.ibb.co/YhgYtWs/16aros.png"
+	},
 	
-	{"id": 83,
+	{
 	"nombre":"Gargantilla dorada",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico dorado",
 	"precio":3500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/7rnfqnJ/18aros.png"},
+	"imagen":"https://i.ibb.co/7rnfqnJ/18aros.png"
+	},
 	
-	{"id": 84,
+	{
 	"nombre":"Gargantilla plateada",
 	"categoria":"Cadenas",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":3000,
 	"stock":2,
-	"imagen":"https://i.ibb.co/z4rF13v/19aros.png"},
+	"imagen":"https://i.ibb.co/z4rF13v/19aros.png"
+	},
 	
-	{"id": 85,
+	{
 	"nombre":"Billetera beige",
 	"categoria":"Billeteras",
 	"descripcion":"Simil cuero con cierre",
 	"precio":1900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/4KHydQf/1aros.png"},
+	"imagen":"https://i.ibb.co/4KHydQf/1aros.png"
+	},
 	
-	{"id": 86,
+	{
 	"nombre":"Billetera cuero negro",
 	"categoria":"Billeteras",
 	"descripcion":"Cuero negro",
 	"precio":3000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/qN4sc1S/2aros.png"},
+	"imagen":"https://i.ibb.co/qN4sc1S/2aros.png"
+	},
 	
-	{"id": 87,
+	{
 	"nombre":"Billetera cuero gris",
 	"categoria":"Billeteras",
 	"descripcion":"Cuero gris",
 	"precio":3200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/YRQ0gfN/3aros.png"},
+	"imagen":"https://i.ibb.co/YRQ0gfN/3aros.png"
+	},
 
-	{"id": 88,
+	{
 	"nombre":"Billetera hombre",
 	"categoria":"Billeteras",
 	"descripcion":"Cuero gris",
 	"precio":1900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/SrwM5cW/4aros.png"},
+	"imagen":"https://i.ibb.co/SrwM5cW/4aros.png"
+	},
 
-	{"id": 89,
+	{
 	"nombre":"Cadena con cruz",
 	"categoria":"Collares",
 	"descripcion":"Acero quirúrgico blanco eslabón grande con dije cruz rayada",
 	"precio":3000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/f02Z1GB/1aros.png"},
+	"imagen":"https://i.ibb.co/f02Z1GB/1aros.png"
+	},
 
-	{"id": 90,
+	{
 	"nombre":"Cadena con dije media esfera",
 	"categoria":"Collares",
 	"descripcion":"Acero quirúrgico blanco cadena eslabón grande con dije",
 	"precio":3000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/ZdjHM3J/2aros.png"},
+	"imagen":"https://i.ibb.co/ZdjHM3J/2aros.png"
+	},
 
-	{"id": 91,
+	{
 	"nombre":"Cadena con dije corazón", 
 	"categoria":"Collares",
 	"descripcion":"Acero quirúrgico blanco y dije esmaltado",
 	"precio":3000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/Rcnnndq/3aros.png"},
+	"imagen":"https://i.ibb.co/Rcnnndq/3aros.png"
+	},
 
-	{"id": 92,
+	{
 	"nombre":"Collar mandala",
 	"categoria":"Collares",
 	"descripcion":"Acero quirúrgico blanco eslabón fino loargo con dije",
 	"precio":3000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/Kb1q7rW/4aros.png"},
+	"imagen":"https://i.ibb.co/Kb1q7rW/4aros.png"
+	},
 
-	{"id": 93,
+	{
 	"nombre":"Collar esfera negra",
 	"categoria":"Collares",
 	"descripcion":"Acero quirúrgico blanco eslabón chico con dije perla negra, plateada y strass",
 	"precio":3000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/bs3hMqJ/5aros.png"},
+	"imagen":"https://i.ibb.co/bs3hMqJ/5aros.png"
+	},
 
-	{"id": 94,
+	{
 	"nombre":"Collar eslabón chato",
 	"categoria":"Collares",
 	"descripcion":"Acero quirúrgico eslabón chato largo",
 	"precio":2800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/K5VqLCD/6aros.png"},
+	"imagen":"https://i.ibb.co/K5VqLCD/6aros.png"
+	},
 
-	{"id": 95,
+	{
 	"nombre":"Colgante combinado",
 	"categoria":"Collares",
 	"descripcion":"Cordón negro y acero quirúrgico blanco",
 	"precio":3500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/GxfmDsM/7aros.png"},
+	"imagen":"https://i.ibb.co/GxfmDsM/7aros.png"
+	},
 
-	{"id": 96,
+	{
 	"nombre":"Colagante borla",
 	"categoria":"Collares",
 	"descripcion":"Cordón nedro/marrón y acero quirúrgico blanco",
 	"precio":3000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/cv9tNDw/8aros.png"},
+	"imagen":"https://i.ibb.co/cv9tNDw/8aros.png"
+	},
 
-	{"id": 97,
+	{
+	"nombre":"Anteojos curvo negro", 
+	"categoria":"Anteojos", 
+	"descripcion":"uv", 
+	"precio":3000, 
+	"stock":1, 
+	"imagen":"https://i.ibb.co/MgRdp0S/1aros.png"
+	},
+
+	{
+	"nombre":"Anteojos mujer redondo marrón", 
+	"categoria":"Anteojos", 
+	"descripcion":"uv", 
+	"precio":3000, 
+	"stock":1, 
+	"imagen":"https://i.ibb.co/kHGYBGx/3aros.png"
+	},
+
+	{
+	"nombre":"Anteojos espejados", 
+	"categoria":"Anteojos", 
+	"descripcion":"uv", 
+	"precio":3000, 
+	"stock":1, 
+	"imagen":"https://i.ibb.co/RvGPG3M/5aros.png"
+	},
+
+	{
+	"nombre":"Anteojos rosados", 
+	"categoria":"Anteojos", 
+	"descripcion":"uv", 
+	"precio":3000, 
+	"stock":1, 
+	"imagen":"https://i.ibb.co/DDDRpJ2/6aros.png"
+	},
+
+	{
 	"nombre":"Camel",
 	"categoria":"Riñoneras",
 	"descripcion":"Simil cuero color camel grande",
 	"precio":3900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/415Rg7m/1aros.png"},
+	"imagen":"https://i.ibb.co/415Rg7m/1aros.png"
+	},
 
-	{"id": 98,
+	{
 	"nombre":"Negra con tachas",
 	"categoria":"Riñoneras",
 	"descripcion":"Simil cuero negro con tachas",
 	"precio":4200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/6th3hrF/2aros.png"},
+	"imagen":"https://i.ibb.co/6th3hrF/2aros.png"
+	},
 
-	{"id": 99,
+	{
 	"nombre":"Porta celular gris",
 	"categoria":"Riñoneras",
 	"descripcion":"Tela gris",
 	"precio":2500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/3Thtyxj/3aros.png"},
+	"imagen":"https://i.ibb.co/3Thtyxj/3aros.png"
+	},
 
-	{"id": 100,
+	{
 	"nombre":"Pañuelo raso 50x50",
 	"categoria":"Pañuelos",
 	"descripcion":"Pañuelos gatitos raso 50x50",
 	"precio":1000,
 	"stock":2,
-	"imagen":"https://i.ibb.co/NS11LYq/1aros.png"},
+	"imagen":"https://i.ibb.co/NS11LYq/1aros.png"
+	},
 
-	{"id": 101,
+	{
 	"nombre":"Pañuelo raso 60x60",
 	"categoria":"Pañuelos",
 	"descripcion":"Pañuelo gatitos raso 60x60",
 	"precio":1400,
 	"stock":1,
-	"imagen":"https://i.ibb.co/4WGzcRP/3aros.png"},
+	"imagen":"https://i.ibb.co/4WGzcRP/3aros.png"
+	},
 
-	{"id": 102,
+	{
 	"nombre":"Star",
 	"categoria":"Llaveros",
 	"descripcion":"Llavero star chico",
 	"precio":600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/kxGfVC6/1aros.png"},
+	"imagen":"https://i.ibb.co/kxGfVC6/1aros.png"
+	},
 
-	{"id": 103,
+	{
 	"nombre":"Cuero y tachas",
 	"categoria":"Llaveros",
 	"descripcion":"Cuero con tachas",
 	"precio":1000,
 	"stock":3,
-	"imagen":"https://i.ibb.co/g7SDbF9/2aros.png"},
+	"imagen":"https://i.ibb.co/g7SDbF9/2aros.png"
+	},
 
-	{"id": 104,
+	{
 	"nombre":"Emoticón",
 	"categoria":"Llaveros",
 	"descripcion":"Cinta con diseño de emoticón",
 	"precio":800,
 	"stock":2,
-	"imagen":"https://i.ibb.co/whpN8Kn/3aros.png"},
+	"imagen":"https://i.ibb.co/whpN8Kn/3aros.png"
+	},
 
-	{"id": 105,
+	{
 	"nombre":"Llaveros con apliques",
 	"categoria":"Llaveros",
 	"descripcion":"Simil con apliques",
 	"precio":900,
 	"stock":2,
-	"imagen":"https://i.ibb.co/7zYfRH3/4aros.png"},
+	"imagen":"https://i.ibb.co/7zYfRH3/4aros.png"
+	},
 
-	{"id": 106,
+	{
 	"nombre":"Rayas",
 	"categoria":"Llaveros",
 	"descripcion":"Cinta ancha estampa rayas",
 	"precio":800,
 	"stock":2,
-	"imagen":"https://i.ibb.co/MMV1JWS/5aros.png"},
+	"imagen":"https://i.ibb.co/MMV1JWS/5aros.png"
+	},
 
-	{"id": 107,
+	{
 	"nombre":"Estampados",
 	"categoria":"Llaveros",
 	"descripcion":"Cinta ancha estampa diseño",
 	"precio":800,
 	"stock":2,
-	"imagen":"https://i.ibb.co/yf2Vtdq/6aros.png"},
+	"imagen":"https://i.ibb.co/yf2Vtdq/6aros.png"
+	},
 
-	{"id": 108,
+	{
 	"nombre":"Tigre rojo",
 	"categoria":"Llaveros",
 	"descripcion":"Cinta ancha estampa tigre rojo",
 	"precio":800,
 	"stock":1,
-	"imagen":"https://i.ibb.co/3vhDMwK/6aros-1.png"},
+	"imagen":"https://i.ibb.co/3vhDMwK/6aros-1.png"
+	},
 
-	{"id": 109,
+	{
 	"nombre":"Raya fina",
 	"categoria":"Llaveros",
 	"descripcion":"Cinta ancha estampa rayas finas",
 	"precio":800,
 	"stock":2,
-	"imagen":"https://i.ibb.co/CPKR82S/6aros-2.png"},
+	"imagen":"https://i.ibb.co/CPKR82S/6aros-2.png"
+	},
 
-	{"id": 110,
+	{
 	"nombre":"Neceser ovalado",
 	"categoria":"Neceser",
 	"descripcion":"Simil charol porta cosméticos",
 	"precio":3200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/SxK9zQ6/2aros.png"},
+	"imagen":"https://i.ibb.co/SxK9zQ6/2aros.png"
+	},
 
-	{"id": 111,
+	{
 	"nombre":"Neceser redondo",
 	"categoria":"Neceser",
 	"descripcion":"Simil redondo porta cosméticos",
 	"precio":2900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/NCWyZpD/3aros.png"},
+	"imagen":"https://i.ibb.co/NCWyZpD/3aros.png"
+	},
 
-	{"id": 112,
+	{
 	"nombre":"Reloj plateado",
 	"categoria":"Relojes",
 	"descripcion":"Reloj plateado dama",
 	"precio":2600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/gS0BhT0/1aros.png"},
+	"imagen":"https://i.ibb.co/gS0BhT0/1aros.png"
+	},
 
-	{"id": 113,
+	{
 	"nombre":"Reloj playa", 
 	"categoria":"Relojes", 
 	"descripcion":"Reloj diseño a rayas dama", 
@@ -905,306 +1052,344 @@
 	"stock":1, 
 	"imagen":"https://i.ibb.co/HLZPv7t/2aros.png"},
 
-	{"id": 114,
+	{
 	"nombre":"Reloj con strass", 
 	"categoria":"Relojes", 
 	"descripcion":"Reloj negro con strass", 
 	"precio":2600, 
 	"stock":1, 
-	"imagen":"https://i.ibb.co/tLd0CpB/3aros.png"},
+	"imagen":"https://i.ibb.co/tLd0CpB/3aros.png"
+	},
 
-	{"id": 115,
+	{
 	"nombre":"Reloj facetado", 
 	"categoria":"Relojes", 
 	"descripcion":"Reloj negro con vidrio facetado y strass", 
 	"precio":2600, 
 	"stock":1, 
-	"imagen":"https://i.ibb.co/jDJgMxP/4aros.png"},
+	"imagen":"https://i.ibb.co/jDJgMxP/4aros.png"
+	},
 
-	{"id": 116,
+	{
 	"nombre":"Reloj con degradé", 
 	"categoria":"Relojes", 
 	"descripcion":"Reloj blanco y negro en degradé, detalles en dorado", 
 	"precio":2600, 
 	"stock":1, 
-	"imagen":"https://i.ibb.co/3Ysyjk9/5aros.png"},
+	"imagen":"https://i.ibb.co/3Ysyjk9/5aros.png"
+	},
 
-	{"id": 117,
+	{
 	"nombre":"Chalina turquesa",
 	"categoria":"Chalinas",
 	"descripcion":"Chalina color turquesa de lanilla",
 	"precio":4200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/x6wrztG/1aros.png"},
+	"imagen":"https://i.ibb.co/x6wrztG/1aros.png"
+	},
 
-	{"id": 118,
+	{
 	"nombre":"Chalina negra",
 	"categoria":"Chalinas",
 	"descripcion":"Chalina color negro de lanilla",
 	"precio":4200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/BgyLNMF/5aros.png"},
+	"imagen":"https://i.ibb.co/BgyLNMF/5aros.png"
+	},
 
-	{"id": 119,
+	{
 	"nombre":"Chalina marrón",
 	"categoria":"Chalinas",
 	"descripcion":"Chalina color marrón claro de lanilla",
 	"precio":4200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/SNwvrCZ/3aros.png"},
+	"imagen":"https://i.ibb.co/SNwvrCZ/3aros.png"
+	},
 
-	{"id": 120,
+	{
 	"nombre":"Chalina bicolor",
 	"categoria":"Chalinas",
 	"descripcion":"Chalina bicolor de lanilla",
 	"precio":4200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/Rbtk63K/4aros.png"},
+	"imagen":"https://i.ibb.co/Rbtk63K/4aros.png"
+	},
 
-	{"id": 121,"nombre":"Bufanda unisex",
+	{"nombre":"Bufanda unisex",
 	"categoria":"Chalinas",
 	"descripcion":"Bufanda de lanilla unisex negra",
 	"precio":3200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/QnWxmzH/2aros.png"},
+	"imagen":"https://i.ibb.co/QnWxmzH/2aros.png"
+	},
 
-	{"id": 122,
+	{
 	"nombre":"Cinto colora natural",
 	"categoria":"Cinturones",
 	"descripcion":"Cinto simil color natural con hebilla carey",
 	"precio":1600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/jLrNS8X/1aros.png"},
+	"imagen":"https://i.ibb.co/jLrNS8X/1aros.png"
+	},
 
-	{"id": 123,
+	{
 	"nombre":"Cinto camel",
 	"categoria":"Cinturones",
 	"descripcion":"Cinto color camel con hebilla metal y carey",
 	"precio":1600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/VvhRrWw/2aros.png"},
+	"imagen":"https://i.ibb.co/VvhRrWw/2aros.png"
+	},
 
-	{"id": 124,
+	{
 	"nombre":"Cinto animal print",
 	"categoria":"Cinturones",
 	"descripcion":"Cinto animal print con hebilla corazón doble",
 	"precio":1600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/mXrSRpx/3aros.png"},
+	"imagen":"https://i.ibb.co/mXrSRpx/3aros.png"
+	},
 
-	{"id": 125,
+	{
 	"nombre":"Cinto gamuza",
 	"categoria":"Cinturones",
 	"descripcion":"Cinto gamuza negra con pintitas de brillo",
 	"precio":1500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/HFLS6wT/4aros.png"},
+	"imagen":"https://i.ibb.co/HFLS6wT/4aros.png"
+	},
 
-	{"id": 126,
+	{
 	"nombre":"Cinto con tachas",
 	"categoria":"Cinturones",
 	"descripcion":"Cinto blanco con tachas",
 	"precio":1600,
 	"stock":1,
-	"imagen":"https://i.ibb.co/tPn7y3Z/5aros.png"},
+	"imagen":"https://i.ibb.co/tPn7y3Z/5aros.png"
+	},
 
-	{"id": 127,
+	{
 	"nombre":"Anillos esmaltados",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco esmaltados, y con piedra cuadrada negra (valor por unidad)",
 	"precio":3000,
 	"stock":3,
-	"imagen":"https://i.ibb.co/3F6ZMHQ/1aros.png"},
+	"imagen":"https://i.ibb.co/3F6ZMHQ/1aros.png"
+	},
 
-	{"id": 128,
+	{
 	"nombre":"Anillo león / óvalo",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco león en relieve grande / óvalo con strass",
 	"precio":3300,
 	"stock":2,
-	"imagen":"https://i.ibb.co/qRZLrVd/2aros.png"},
+	"imagen":"https://i.ibb.co/qRZLrVd/2aros.png"
+	},
 
-	{"id": 129,
+	{
 	"nombre":"Anillo Bvlgari",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":3500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/xX9bmRK/3aros.png"},
+	"imagen":"https://i.ibb.co/xX9bmRK/3aros.png"
+	},
 
-	{"id": 130,
+	{
 	"nombre":"Anillo piedra rosa",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco con piedra rosa",
 	"precio":2900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/qRK4x9J/4aros.png"},
+	"imagen":"https://i.ibb.co/qRK4x9J/4aros.png"
+	},
 
-	{"id": 131,
+	{
 	"nombre":"Anillo rectangular",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco rectangular rayado",
 	"precio":1500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/Lzv2s7g/5aros.png"},
+	"imagen":"https://i.ibb.co/Lzv2s7g/5aros.png"
+	},
 
-	{"id": 132,
+	{
 	"nombre":"Anillo calado",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco calado",
 	"precio":1500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/74SgQrJ/6aros.png"},
+	"imagen":"https://i.ibb.co/74SgQrJ/6aros.png"
+	},
 
-	{"id": 133,
+	{
 	"nombre":"Anillo con piedra facetada",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco pon piedra negra facetada",
 	"precio":3300,
 	"stock":1,
-	"imagen":"https://i.ibb.co/HngcdKq/7aros.png"},
+	"imagen":"https://i.ibb.co/HngcdKq/7aros.png"
+	},
 
-	{"id": 134,
+	{
 	"nombre":"Anillo trenzado",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico trenzado",
 	"precio":2900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/44Wjg4R/8aros.png"},
+	"imagen":"https://i.ibb.co/44Wjg4R/8aros.png"
+	},
 
-	{"id": 135,
+	{
 	"nombre":"Anillo cruz",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico y esmaldado",
 	"precio":1500,
 	"stock":1,
-	"imagen":"https://i.ibb.co/NVHZpXj/9aros.png"},
+	"imagen":"https://i.ibb.co/NVHZpXj/9aros.png"
+	},
 
-	{"id": 136,
+	{
 	"nombre":"Anillos calados",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco calado (valor por unidad)",
 	"precio":1000,
 	"stock":2,
-	"imagen":"https://i.ibb.co/Cm501P7/10aros.png"},
+	"imagen":"https://i.ibb.co/Cm501P7/10aros.png"
+	},
 
-	{"id": 137,
+	{
 	"nombre":"Anillo flor",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco calado",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/fv2Z2Bg/11aros.png"},
+	"imagen":"https://i.ibb.co/fv2Z2Bg/11aros.png"
+	},
 
-	{"id": 138,
+	{
 	"nombre":"Anillo infinito",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco, perla y strass",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/fDNxms8/12aros.png"},
+	"imagen":"https://i.ibb.co/fDNxms8/12aros.png"
+	},
 
-	{"id": 139,
+	{
 	"nombre":"Anillo de abundancia",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/k2G84bs/13aros.png"},
+	"imagen":"https://i.ibb.co/k2G84bs/13aros.png"
+	},
 
-	{"id": 140,
+	{
 	"nombre":"Anillos olas",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco calado (valor por unidad)",
 	"precio":1000,
 	"stock":2,
-	"imagen":"https://i.ibb.co/9vs4cMF/14aros.png"},
+	"imagen":"https://i.ibb.co/9vs4cMF/14aros.png"
+	},
 
-	{"id": 141,
+	{
 	"nombre":"Anillo corona/ tercer ojo",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco calado (valor por unidad)",
 	"precio":1000,
 	"stock":2,
-	"imagen":"https://i.ibb.co/pbbB4zQ/15aros.png"},
+	"imagen":"https://i.ibb.co/pbbB4zQ/15aros.png"
+	},
 
-	{"id": 142,
+	{
 	"nombre":"Anillos estrella/ gota",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco calado (valor por unidad)",
 	"precio":1000,
 	"stock":2,
-	"imagen":"https://i.ibb.co/52cjhmq/16aros.png"},
+	"imagen":"https://i.ibb.co/52cjhmq/16aros.png"
+	},
 
-	{"id": 143,
+	{
 	"nombre":"Anillo tercer ojo",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1100,
 	"stock":1,
-	"imagen":"https://i.ibb.co/RCXxDwc/17aros.png"},
+	"imagen":"https://i.ibb.co/RCXxDwc/17aros.png"
+	},
 
-	{"id": 144,
+	{
 	"nombre":"Anillo con esferas",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/0QdnSjT/18aros.png"},
+	"imagen":"https://i.ibb.co/0QdnSjT/18aros.png"
+	},
 
-	{"id": 145,
+	{
 	"nombre":"Anillos estrellas/ rombos",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco calado (valor por unidad)",
 	"precio":1000,
 	"stock":2,
-	"imagen":"https://i.ibb.co/fDY602f/19aros.png"},
+	"imagen":"https://i.ibb.co/fDY602f/19aros.png"
+	},
 
-	{"id": 146,
+	{
 	"nombre":"Anillo regulable",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/hdBxGY6/20aros.png"},
+	"imagen":"https://i.ibb.co/hdBxGY6/20aros.png"
+	},
 
-	{"id": 147,
+	{
 	"nombre":"Anillo infinito esmaltado",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco esmaltado",
 	"precio":900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/BggSmrQ/21aros.png"},
+	"imagen":"https://i.ibb.co/BggSmrQ/21aros.png"
+	},
 
-	{"id": 148,
+	{
 	"nombre":"Anillo árbol de la vida",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/3WVVR3G/22aros.png"},
+	"imagen":"https://i.ibb.co/3WVVR3G/22aros.png"
+	},
 
-	{"id": 149,
+	{
 	"nombre":"Anillo ala",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico",
 	"precio":1000,
 	"stock":1,
-	"imagen":"https://i.ibb.co/yFkGn27/23aros.png"},
+	"imagen":"https://i.ibb.co/yFkGn27/23aros.png"
+	},
 
-	{"id": 150,
+	{
 	"nombre":"Anillo corona con strass",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco con strass",
 	"precio":1200,
 	"stock":1,
-	"imagen":"https://i.ibb.co/gS2VGv6/24aros.png"},
+	"imagen":"https://i.ibb.co/gS2VGv6/24aros.png"
+	},
 
-	{"id": 151,
+	{
 	"nombre":"Anillo media falange",
 	"categoria":"Anillos",
 	"descripcion":"Acero quirúrgico blanco",
 	"precio":900,
 	"stock":1,
-	"imagen":"https://i.ibb.co/BnmCBwJ/25aros.png"}
+	"imagen":"https://i.ibb.co/BnmCBwJ/25aros.png"
+	}
 ]
