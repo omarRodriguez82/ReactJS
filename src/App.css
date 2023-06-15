@@ -228,6 +228,35 @@
   color: rgb(208, 134, 27, 0.5);
 }
 
+.btnVaciarCarrito, .cabezaTabla {
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  color: black;
+}
+
+.btnVaciarCarrito:hover {
+  color: rgb(208, 134, 27, 0.6);
+  cursor: pointer;
+}
+
+.botonTrash:hover {
+  scale: 1.3;
+}
+
+.itemTabla {
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+}
+
+.alerta, .Error404 {
+  background-color: rgb(208, 134, 27, 0.2);
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  border-radius: 30px;
+}
+
 /* Footer */
 
 .Footer {

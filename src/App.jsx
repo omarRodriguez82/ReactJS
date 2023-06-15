@@ -10,6 +10,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Contacto from './components/Contacto';
 import Cart from './components/Cart';
 import CartContextProvider from './components/Context/CartContext';
+import Checkout from './components/Checkout';
 
 function App() {
   return (
@@ -18,12 +19,13 @@ function App() {
         <BrowserRouter>
           <Header />
             <Routes>
-              <Route path={"/"} element={<ItemListContainer />}></Route>
+              <Route path={"/"} element={<Main />}></Route>
               <Route path={"/categoria/:id"} element={<ItemListContainer />}></Route>
               <Route path={"/Item/:id"} element={<ItemDetailContainer />}></Route>
               <Route path={"/Main"} element={<Main />}></Route>
               <Route path={"/Contacto"} element={<Contacto />}></Route>
               <Route path={"/Cart"} element={<Cart />}></Route>
+              <Route path={"/Checkout"} element={<Checkout />}></Route>
               <Route path={"/*"} element={<Error404 />}></Route>                     
             </Routes>
           <Footer />

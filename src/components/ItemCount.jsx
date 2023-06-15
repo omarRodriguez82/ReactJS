@@ -1,10 +1,12 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 const ItemCount = ({stock, onAdd}) => {
   const [items, setItems] = useState(1);
   const [itemStock, setItemStock] = useState(stock);
   const [itemAdded, setItemAdded] = useState(false);
+  const navigate = useNavigate();
 
   const incrementarStock = () => {
       if (items < itemStock) {
@@ -27,6 +29,10 @@ const ItemCount = ({stock, onAdd}) => {
       }
   }
 
+  const btnVolverAtras = () => {
+		navigate(-1);
+	}
+
   useEffect(() => {
       setItemStock(stock);
 }, [stock]);
@@ -44,7 +50,11 @@ const ItemCount = ({stock, onAdd}) => {
       </div>
       <div className="row">
         <div className="col">
-        {itemAdded ? <Link to={"/Cart"} className="btn btn-agregar-carrito">Finalizar Compra</Link> : <button type="button" className="btn btn-agregar-carrito" onClick={addToCart}>Agregar al Carrito</button>}
+          {itemAdded ? <div>
+          <Link to={"/Cart"} className="btn btn-agregar-carrito m-1">Ir al Carrito</Link>
+          <button type="button" title="Go back" onClick={btnVolverAtras} className="btn btn-agregar-carrito m-1">Seguir Comprando!</button>
+          </div> : 
+          <button type="button" className="btn btn-agregar-carrito" onClick={addToCart}>Agregar al Carrito</button>}
         </div>
       </div>
     </div>

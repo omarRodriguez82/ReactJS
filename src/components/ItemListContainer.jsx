@@ -4,6 +4,7 @@ import ItemList from "./ItemList";
 import { useParams } from "react-router-dom";
 import { getFirestore, collection, getDocs, where, query } from "firebase/firestore";
 import Loading from "./Loading";
+import Error404 from "./Error404";
 
 const ItemListContainer = () => {
   const [items, setItems] = useState([]);
@@ -56,7 +57,7 @@ useEffect(() => {
           setItems(resultado.docs.map(producto => ({id:producto.id, ...producto.data()})));
           setLoading(false);
       } else {
-          console.error("Error! No se encontraron productos en la colección!");
+          <Error404 />
       }
   });
 }, [id]);
