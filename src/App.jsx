@@ -5,7 +5,6 @@ import Header from './components/Header';
 import ItemListContainer from './components/ItemListContainer';
 import ItemDetailContainer from './components/ItemDetailContainer'
 import Main from './components/Main';
-/* import Navbar2 from './components/Navbar2'; */
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Contacto from './components/Contacto';
 import Cart from './components/Cart';
