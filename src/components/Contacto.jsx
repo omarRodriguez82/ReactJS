@@ -13,23 +13,23 @@ const Contacto = () => {
           <h1 className="tituloContacto mb-4 p-0">Contacto</h1>
 
           <div className="my-4">
-            <label for="validationDefault01" className="form-label">Nombre</label>
-            <input type="text" className="form-control form-nombre rounded-pill" id="validationDefault01" placeholder="Nombre" required />
+            <label for="validationDefault01" className="form-label contactoTituloInput">Nombre</label>
+            <input type="text" className="form-control form-nombre rounded-pill contactoPlaceholder" id="validationDefault01" placeholder="Nombre" required />
           </div>
           
           <div className="my-4">
-            <label for="exampleFormControlInput1" className="form-label">Email</label>
-            <input type="email" className="form-control form-email rounded-pill" id="exampleFormControlInput1" placeholder="name@example.com" />
+            <label for="exampleFormControlInput1" className="form-label contactoTituloInput">Email</label>
+            <input type="email" className="form-control form-email rounded-pill contactoPlaceholder" id="exampleFormControlInput1" placeholder="name@example.com" />
           </div>
 
           <div className="my-4">
-            <label for="validationDefault01" className="form-label">Teléfono</label>
-            <input type="text" className="form-control form-telefono rounded-pill" id="validationDefault01" placeholder="Teléfono" required />
+            <label for="validationDefault01" className="form-label contactoTituloInput">Teléfono</label>
+            <input type="text" className="form-control form-telefono rounded-pill contactoPlaceholder" id="validationDefault01" placeholder="Teléfono" required />
           </div>
           
           <div className="my-4">
-            <label for="exampleFormControlTextarea1" className="form-label">Mensaje</label>
-            <textarea className="form-control form-mensaje rounded-4" id="exampleFormControlTextarea1" rows="12" placeholder="Dejanos tu mensaje"></textarea>
+            <label for="exampleFormControlTextarea1" className="form-label contactoTituloInput">Mensaje</label>
+            <textarea className="form-control form-mensaje rounded-4 contactoPlaceholder" id="exampleFormControlTextarea1" rows="12" placeholder="Dejanos tu mensaje"></textarea>
           </div>
             
           <div className="my-4 text-end">

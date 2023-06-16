@@ -11,6 +11,7 @@ import Contacto from './components/Contacto';
 import Cart from './components/Cart';
 import CartContextProvider from './components/Context/CartContext';
 import Checkout from './components/Checkout';
+import ThankYou from './components/ThankYou';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
               <Route path={"/Contacto"} element={<Contacto />}></Route>
               <Route path={"/Cart"} element={<Cart />}></Route>
               <Route path={"/Checkout"} element={<Checkout />}></Route>
+              <Route path={"/ThankYou/:orderId"} element={<ThankYou />}></Route>
               <Route path={"/*"} element={<Error404 />}></Route>                     
             </Routes>
           <Footer />

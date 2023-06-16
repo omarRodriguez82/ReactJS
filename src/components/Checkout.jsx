@@ -1,13 +1,14 @@
 import { useContext, useState } from "react";
 import { CartContext } from "./Context/CartContext";
 import { getFirestore, collection, addDoc } from "firebase/firestore";
+import { Navigate } from "react-router-dom";
 
 const Checkout = () => {
   const [nombre, setNombre] = useState("");
   const [email, setEmail] = useState("");
   const [telefono, setTelefono] = useState("");
   const [orderId, setOrderId] = useState("");
-  const {cart, sumTotal} = useContext(CartContext);
+  const {cart, sumTotal, clear} = useContext(CartContext);
 
     const generarOrden = () => {
 
@@ -33,6 +34,7 @@ const Checkout = () => {
     const OrdersCollection = collection(db, "orders");
     addDoc(OrdersCollection, order).then(resultado => {
       setOrderId(resultado.id);
+      clear();
     })
     .catch(resultado => {
       <div className="alert alerta" role="alert">Error! No se pudo completar la Compra</div>
@@ -47,16 +49,16 @@ const Checkout = () => {
         <div className="col-md-6">
           <form>
             <div className="mb-3">
-              <label className="form-label">Nombre</label>
-              <input type="text" className="form-control" onInput={(e) => {setNombre(e.target.value)}} />
+              <label className="form-label contactoTituloInput">Nombre</label>
+              <input type="text" className="form-control contactoTituloInput" onInput={(e) => {setNombre(e.target.value)}} />
             </div>
             <div className="mb-3">
-              <label className="form-label">Email</label>
-              <input type="text" className="form-control" onInput={(e) => {setEmail(e.target.value)}} />
+              <label className="form-label contactoTituloInput">Email</label>
+              <input type="text" className="form-control contactoTituloInput" onInput={(e) => {setEmail(e.target.value)}} />
             </div>
             <div className="mb-3">
-              <label className="form-label">Teléfono</label>
-              <input type="text" className="form-control" onInput={(e) => {setTelefono(e.target.value)}} />
+              <label className="form-label contactoTituloInput">Teléfono</label>
+              <input type="text" className="form-control contactoTituloInput" onInput={(e) => {setTelefono(e.target.value)}} />
             </div>
             <button type="button" className="btn btn-enviar" onClick={generarOrden}>Generar Orden</button>
           </form>
@@ -86,10 +88,7 @@ const Checkout = () => {
 
         <div className="row">
           <div className="col text-center">
-            {orderId ? <div className="alert alerta" role="alert">
-              <h1>Gracias por tu Compra!</h1>
-              <h3>Tu Orden de Compra es: <b>{orderId}</b></h3>
-            </div> : "" }
+            {orderId ? <Navigate to={"/ThankYou/" + orderId}></Navigate> : ""}
           </div>
         </div>
 
